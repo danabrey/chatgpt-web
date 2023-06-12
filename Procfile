@@ -1,1 +1,1 @@
-web: node serve.js
+web: http-server dist

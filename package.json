@@ -48,5 +48,8 @@
     "typescript": "^5.0.4",
     "uuid": "^9.0.0",
     "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
   }
 }
